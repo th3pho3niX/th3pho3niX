@@ -1,4 +1,4 @@
-# 🔥 Welcome — I’m Phoenix
+# 🔥 Welcome - I’m Phoenix
 
 ### 💻 Cybersecurity · System Integration · Automation
 Building a full-stack security homelab ⚙️ | Focused on SIEM, IDS/IPS, Threat Intelligence & SOC Operations
