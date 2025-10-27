@@ -6,7 +6,7 @@ Building a full-stack security homelab ⚙️ | Focused on SIEM, IDS/IPS, Threat
 ---
 
 ## 🧠 About Me
-- 💼 **Trainee Fachinformatiker Systemintegration**
+- 💼 **IT Specialist Apprentice (System Integration)**
 - 🔒 Passionate about **Cybersecurity**, **Threat Intelligence**, and **SOC Operations**
 - 🧩 Building my own **Security Homelab** using Raspberry Pi & Ubuntu Server
 - 🧠 Working with **Wazuh**, **Suricata**, **Zeek**, **OpenVAS**, and **Pi-hole**
