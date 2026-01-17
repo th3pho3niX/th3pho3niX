@@ -35,16 +35,6 @@ Building a full-stack security homelab ⚙️ | Focused on SIEM, IDS/IPS, Threat
 
 ---
 
-## 🧭 Roadmap 2025
-- [x] Base Homelab Setup (VPN + SIEM)
-- [x] Telegram Alert Integration (Wazuh → Python Script)
-- [ ] Add OSINT Automation (VirusTotal, AbuseIPDB)
-- [ ] Dockerize Security Stack
-- [ ] Deploy Threat-Intel Dashboard
-- [ ] Create public knowledge base (Bookstack / GitHub Wiki)
-
----
-
 ## 📊 GitHub Stats
 ![Phoenix GitHub Stats](https://github-readme-stats.vercel.app/api?username=th3ph03niX&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th3ph03niX&layout=compact&theme=tokyonight&hide_border=true)
