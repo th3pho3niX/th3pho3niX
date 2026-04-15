@@ -1,51 +1,57 @@
-# 🔥 Welcome - I’m Phoenix
+# Phoenix Kern
 
-### 💻 Cybersecurity · System Integration · Automation
-Building a full-stack security homelab ⚙️ | Focused on SIEM, IDS/IPS, Threat Intelligence & SOC Operations
-
----
-
-## 🧠 About Me
-- 💼 **IT Specialist Apprentice (System Integration)**
-- 🔒 Passionate about **Cybersecurity**, **Threat Intelligence**, and **SOC Operations**
-- 🧩 Building my own **Security Homelab** using Raspberry Pi & Ubuntu Server
-- 🧠 Working with **Wazuh**, **Suricata**, **Zeek**, **OpenVAS**, and **Pi-hole**
-- 🌐 Always learning — currently diving deeper into **Forensics** & **Incident Response**
+IT Specialist in Training (System Integration) - building a modular security homelab for hands-on experience in network security, monitoring, and automation.
 
 ---
 
-## 🧰 Tech & Tools
+## About
 
-| Category | Tools |
-|-----------|-------|
-| **SIEM / Monitoring** | Wazuh · ELK Stack · Zeek · Suricata |
-| **Automation / Scripting** | Python · Bash · Docker · n8n |
-| **Network & Security** | OpenVAS · WireGuard · Pi-hole · Fail2Ban |
-| **Forensics & Analysis** | Wireshark · Sysmon · Volatility · Autopsy |
-| **Infrastructure** | Ubuntu Server · Raspberry Pi · VirtualBox |
+I'm currently completing a retraining program (Umschulung) as a Fachinformatiker for System Integration at GFN GmbH in Freiburg, Germany. My focus areas are network infrastructure, system administration, and IT security.
 
----
+Outside of coursework, I run a multi-node homelab that serves as a practical environment for security monitoring, threat detection, and workflow automation. The lab is fully documented and version-controlled.
 
-## 🏗️ Current Projects
-🚀 **Homelab-Security-Stack 2025**  
-> A modular security and automation lab with Wazuh, Suricata, Zeek, OpenVAS & Pi-hole.  
-> Focus: Threat detection, SOC simulation, and network forensics.
+**Certifications:** Google Cybersecurity Certificate · Cisco Cybersecurity Essentials · TryHackMe Cybersecurity 101 · Scrum Master
 
-🔗 Repository: *coming soon…*
+**Currently working toward:** Cisco CyberOps Associate · CompTIA Security+ · TryHackMe SOC Level 1
 
 ---
 
-## 📊 GitHub Stats
-![Phoenix GitHub Stats](https://github-readme-stats.vercel.app/api?username=th3ph03niX&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th3ph03niX&layout=compact&theme=tokyonight&hide_border=true)
+## Homelab Architecture
+
+A segmented network environment built for security operations and automation:
+
+- **Firewall / Router:** Mini-PC (Intel N100) running OPNsense — VLAN management, Suricata IDS/IPS, DNS, VPN
+- **Security Core (Raspberry Pi 5):** Wazuh Manager, Suricata, Zeek, Pi-hole, n8n automation
+- **VPN Bastion (Raspberry Pi 4):** WireGuard, Fail2Ban, SSH-key-only access
+- **Analysis Workstation (MacBook Pro):** Wireshark, Volatility, Autopsy, Kali/Parrot VMs
+- **Dev / Documentation (Acer TravelMate):** Obsidian, GitHub, VS Code, Ollama (local LLMs)
+
+All workflows are documented in Obsidian and versioned through GitHub. Automation pipelines run via n8n with Markdown export, hash validation, and Telegram alerting.
 
 ---
 
-## 🧩 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Phoenix_Kern-blue?logo=linkedin)](https://www.linkedin.com/in/phoenix-kern/)
-[![GitHub](https://img.shields.io/badge/GitHub-th3ph03niX-black?logo=github)](https://github.com/th3ph03niX)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-pho3niX-red?logo=tryhackme)](https://tryhackme.com/p/pho3niX)
+## Projects
+
+### macbook-ubuntu-t2
+Ubuntu 24.04 LTS installation on MacBook Pro 2018 (T2 chip) — covers T2 drivers, LUKS encryption, WLAN firmware, fan control, and performance logging.
+→ [Repository](https://github.com/th3pho3niX/macbook-ubuntu-t2)
+
+### Homelab Documentation *(in progress)*
+Structured guides covering the full homelab stack: network architecture, security zones, n8n workflows, coding standards, incident response playbooks, and system glossary.
 
 ---
 
-🔥 *Driven by curiosity — always exploring what's next.*
+## Tools & Technologies
+
+**Infrastructure:** OPNsense · Ubuntu Server · Raspberry Pi · Docker · Ansible  
+**Security / SIEM:** Wazuh · Suricata · Zeek · Pi-hole · OpenVAS  
+**Forensics:** Wireshark · Volatility 3 · Autopsy · Sysmon  
+**Automation:** n8n · Python · Bash · GitHub Actions  
+**Documentation:** Obsidian · Markdown · Git  
+
+---
+
+## Contact
+
+- LinkedIn: [phoenix-kern](https://www.linkedin.com/in/phoenix-kern/)
+- TryHackMe: [pho3niX](https://tryhackme.com/p/pho3niX)
