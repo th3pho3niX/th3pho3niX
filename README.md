@@ -1,18 +1,6 @@
 # Phoenix Kern
 
-IT Specialist in Training (System Integration) - building a modular security homelab for hands-on experience in network security, monitoring, and automation.
-
----
-
-## About
-
-I'm currently completing a retraining program (Umschulung) as a Fachinformatiker for System Integration at GFN GmbH in Freiburg, Germany. My focus areas are network infrastructure, system administration, and IT security.
-
-Outside of coursework, I run a multi-node homelab that serves as a practical environment for security monitoring, threat detection, and workflow automation. The lab is fully documented and version-controlled.
-
-**Certifications:** Google Cybersecurity Certificate · Cisco Cybersecurity Essentials · TryHackMe Cybersecurity 101 · Scrum Master
-
-**Currently working toward:** Cisco CyberOps Associate · CompTIA Security+ · TryHackMe SOC Level 1
+IT Specialist in Training (System Integration) — building a modular security homelab for hands-on experience in network security, monitoring, and automation.
 
 ---
 
@@ -43,15 +31,8 @@ Structured guides covering the full homelab stack: network architecture, securit
 
 ## Tools & Technologies
 
-**Infrastructure:** OPNsense · Ubuntu Server · Raspberry Pi · Docker · Ansible  
-**Security / SIEM:** Wazuh · Suricata · Zeek · Pi-hole · OpenVAS  
-**Forensics:** Wireshark · Volatility 3 · Autopsy · Sysmon  
-**Automation:** n8n · Python · Bash · GitHub Actions  
-**Documentation:** Obsidian · Markdown · Git  
-
----
-
-## Contact
-
-- LinkedIn: [phoenix-kern](https://www.linkedin.com/in/phoenix-kern/)
-- TryHackMe: [pho3niX](https://tryhackme.com/p/pho3niX)
+**Infrastructure:** OPNsense · Ubuntu Server · Raspberry Pi · Docker · Ansible
+**Security / SIEM:** Wazuh · Suricata · Zeek · Pi-hole · OpenVAS
+**Forensics:** Wireshark · Volatility 3 · Autopsy · Sysmon
+**Automation:** n8n · Python · Bash · GitHub Actions
+**Documentation:** Obsidian · Markdown · Git
